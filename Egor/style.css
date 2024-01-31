@@ -1,34 +1,25 @@
-.traffic {
-    width: 6vw;
-    padding: 10px;
-    background: grey;
-    border-radius: 10px;
-    margin: auto;
+h1 {
+    list-style: circle;
+    background: orange;
+}
+h2 {
+    list-style: circle;
+    background: orange;
+}
+h3 {
+    list-style: circle;
+    background: orange;
 }
 
-.circle {
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
-    border: 1px solid black;
-    background: white;
+pre {
+    list-style: circle;
+    background: orange;
 }
-
-button {
-    display: block;
-    margin: 10px auto;
-    width: 50px;
-    height: 50px;
-    border-radius: 10px;
+li {
+    list-style: square;
+    background: orange;
 }
-.red {
-    background: red;
-}
-
-.yellow {
-    background: yellow;
-}
-
-.green {
-    background: green;
+h4 {
+    list-style: circle;
+    background: orange;
 }
